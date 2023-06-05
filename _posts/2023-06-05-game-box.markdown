@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 1
+date: 2023-06-05
+img: gamebox.jpg
+alt: image-alt
+release-date: June 2023
+platform: Android, iOS
+category: Casual, Puzzle, Action
+mode: Offline Game, Online Game, Single Play Mode, Dual Play Mode, Online Mode
+description: Whether you're at home, school, or on the go, Game Box are perfect for a quick and exciting match with your friends.
+android: https://play.google.com/store/apps/details?id=dual.player.multiplayer.online.game.box
+ios: https://apps.apple.com/us/app/two-players-game-box/id6446767787
+---
