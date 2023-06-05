@@ -20,19 +20,37 @@
             <p>{{ post.description }}</p>
             {% endif %}
             <ul class="list-inline item-details">
-              {% if post.client %}
-              <li>Client:
-                <strong>{{ post.client }}</strong>
+              {% if post.platform %}
+              <li>Platform:
+                <strong>{{ post.platform }}</strong>
               </li>
               {% endif %}
-              {% if post.project-date %}
-              <li>Date:
-                <strong>{{ post.project-date }}</strong>
+              {% if post.release-date %}
+              <li>Release Date:
+                <strong>{{ post.release-date }}</strong>
               </li>
               {% endif %}
               {% if post.category %}
-              <li>Service:
+              <li>Category:
                 <strong>{{ post.category }}</strong>
+              </li>
+              {% endif %}
+              {% if post.mode %}
+              <li>Mode:
+                <strong>{{ post.mode }}</strong>
+              </li>
+              {% endif %}
+            </ul>
+            <p><strong>Download</strong></p>
+            <ul class="list-inline item-details">
+              {% if post.android %}
+              <li>
+                <a href=" {{ post.android }}">Android</a>
+              </li>
+              {% endif %}
+              {% if post.ios %}
+              <li>
+                <a href=" {{ post.ios }} ">iOS</a>
               </li>
               {% endif %}
             </ul>
