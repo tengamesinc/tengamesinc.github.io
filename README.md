@@ -1,1 +1,1 @@
-## Ten Game Home Page
+## Ten Games Home Page
