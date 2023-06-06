@@ -3,7 +3,6 @@ layout: default
 modal-id: 2
 date: 2016-12-06
 img: goldmineronline.jpg
-banner: banner_goldminer.jpg
 alt: Gold Miner Online
 youtube: BBv5IQFHLjc
 release-date: December 2016
