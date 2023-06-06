@@ -3,7 +3,6 @@ layout: default
 modal-id: 3
 date: 2017-04-20
 img: retrobrickgame.jpg
-banner: banner_brickgame.jpg
 alt: Retro Brick Game Online
 youtube: nojkJMAfG6Y
 release-date: April 2017
