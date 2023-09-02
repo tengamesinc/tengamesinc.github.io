@@ -4,7 +4,7 @@ modal-id: 1
 date: 2023-06-05
 img: gamebox.jpg
 alt: Game Box
-youtube: yLo2TRYd7Yw
+youtube: qDuXA6W-TfA
 release-date: June 2023
 platform: Android, iOS
 category: Casual, Puzzle, Action
